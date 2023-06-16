@@ -14,15 +14,15 @@ Analyze ECG data from the [MIT-BIH Normal Sinus Rhythm Database](https://physion
 
 [Heart rate variability: Standards of measurement, physiological interpretation, and clinical use](https://academic.oup.com/eurheartj/article/17/3/354/485572)
 
-[Pan & Thompkins QRS detector] (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4122029)
+[Pan & Thompkins QRS detector](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4122029)
 
-[Hamilton & Thompkins QRS detector] (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4122227)
+[Hamilton & Thompkins QRS detector](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4122227)
 
 ### Steps
 1) Import ECG data 
 2) Time Domain Analysis 
 
-    a) Find RR intervals using Pan and and Tompkin’s QRS detector
+    a) Find RR intervals using QRS detector
     
 4) Frequency Domain Analysis
 
